@@ -1,3 +1,4 @@
+@function
 Feature: Who's the GOAT?
     Every football fan wants to know who's the real GOAT
 
