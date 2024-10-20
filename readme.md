@@ -4,10 +4,10 @@
 
 `npm test`
 
-## To run a specific scenarios:
+## To run a specific scenario:
 
-- Navigate to `features/<filename>.feature` file
+- Navigate to `features/<filename>.feature` file.
 
-- There's a tag with this format `@<tag_name>` on top of the file
+- There's a tag with this format `@<tag_name>` on top of the file.
 
-- Run `npm test -- --tags "@<tagname>"`
+- Run `npm test -- --tags "@<tagname>"`.
